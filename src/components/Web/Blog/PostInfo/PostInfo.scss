@@ -1,0 +1,39 @@
+@import "../../../../scss/index.scss";
+
+.post-info {
+  margin-top: 50px;
+
+  &__title {
+    text-align: center;
+    margin-bottom: 0;
+    color: $primary-color;
+    font-weight: bolder;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
+  }
+  h1,
+  h2,
+  h3 {
+    color: $primary-color;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bolder;
+  }
+
+  &__creation-date {
+    text-align: center;
+    color: $font-light;
+    width: 100%;
+    margin-bottom: 100px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: medium;
+  }
+
+  &__description {
+    color: white;
+    font-size: 16px;
+    margin-bottom: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+}

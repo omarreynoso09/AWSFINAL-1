@@ -1,0 +1,33 @@
+@import "../../../../scss/index.scss";
+
+.navigation-footer {
+  h3 {
+    color: $primary-color;
+    font-weight: bold;
+    font-size: larger;
+  }
+
+  ul {
+    padding: 0;
+
+    li {
+      list-style: none;
+      padding: 5px 10px;
+      font-size: 16px;
+
+      a {
+        color: white;
+        &:hover {
+          color: $primary-color;
+          font-weight: bolder;
+          border-bottom: 1px $primary-color dotted;
+        }
+
+        i {
+          padding-right: 10px;
+          font-size: 18px;
+        }
+      }
+    }
+  }
+}

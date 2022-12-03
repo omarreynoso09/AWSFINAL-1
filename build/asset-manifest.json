@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc2c6aae.css",
+    "main.js": "/static/js/main.7056f127.js",
+    "static/media/big-logo.png": "/static/media/big-logo.548c53616e0e56bf33df.png",
+    "static/media/home-v1.jpg": "/static/media/home-v1.5fddddf0b99a84080750.jpg",
+    "static/media/background-v1.jpg": "/static/media/background-v1.cf7d7d0596739819e979.jpg",
+    "static/media/blockchain.jpg": "/static/media/blockchain.ebd291459d64e389eb90.jpg",
+    "static/media/project.jpg": "/static/media/project.cda2215b901912659c50.jpg",
+    "static/media/Seo.jpg": "/static/media/Seo.6068b9c90f7ca8c10e51.jpg",
+    "static/media/digitalMarketing.jpg": "/static/media/digitalMarketing.70842cdcae0f88a9c828.jpg",
+    "static/media/cms.jpg": "/static/media/cms.a0ce686a0a105fc5423d.jpg",
+    "static/media/cyber.jpg": "/static/media/cyber.3a79160c318854197d42.jpg",
+    "static/media/ntf.jpg": "/static/media/ntf.9748dee139532c3d9627.jpg",
+    "static/media/frontend.jpg": "/static/media/frontend.59eaadc88985c6d07a72.jpg",
+    "static/media/academy-logo.png": "/static/media/academy-logo.4159421224a2050a0fd8.png",
+    "static/media/zahi.jpg": "/static/media/zahi.b90443cbf2223783bd9c.jpg",
+    "static/media/luis.jpg": "/static/media/luis.2a79c629eb18c0d22680.jpg",
+    "static/media/justin.jpg": "/static/media/justin.76b03a79fff219ffc61b.jpg",
+    "static/media/linkedin.svg": "/static/media/linkedin.a6ec4eb0072fa81e3fbad480bede2f5a.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.fe5ed91a35005b5cfbf9a652042f1944.svg",
+    "main.bc2c6aae.css.map": "/static/css/main.bc2c6aae.css.map",
+    "main.7056f127.js.map": "/static/js/main.7056f127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc2c6aae.css",
+    "static/js/main.7056f127.js"
+  ]
+}
